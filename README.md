@@ -4,4 +4,8 @@ is used to connect links to unblocked games to eachother
 
 ## Links:
 
-<a style="display=none href="[link here](https://freecodingtutorials.github.io/javatutorial/subway-surfers/index.html)https://freecodingtutorials.github.io/javatutorial/subway-surfers/index.html">Subway Surfers</a>
+Subway Surfers: https://freecodingtutorials.github.io/javatutorial/subway-surfers/index.html
+Hextris: https://freecodingtutorials.github.io/csstutorial/index.html
+General Game Site: https://freecodingtutorials.github.io/pygametutorial/
+Slope 1: https://freecodingtutorials.github.io/MathSlopeTutorial/
+Slope 3:
