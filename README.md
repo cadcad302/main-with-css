@@ -12,4 +12,4 @@ General Game Site: https://freecodingtutorials.github.io/pygametutorial/
 
 Slope 1: https://freecodingtutorials.github.io/MathSlopeTutorial/
 
-Slope 3:
+Slope 3: https://cadcad302.github.io/hmmm/slope-3.html
