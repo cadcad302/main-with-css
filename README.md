@@ -13,3 +13,9 @@ General Game Site: https://freecodingtutorials.github.io/pygametutorial/
 Slope 1: https://freecodingtutorials.github.io/MathSlopeTutorial/
 
 Slope 3 (you can also use this for other games but may not work): https://cadcad302.github.io/hmmm/slope-3.html
+
+Creature Creator: https://thebigcb.com/projects/CreatureCreator/
+
+Cookie Clicker: https://snescraft.me/cc/
+
+General Game Site 2: https://snescraft.me/Mathews-Collection/games.html
