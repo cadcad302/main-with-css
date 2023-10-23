@@ -20,6 +20,6 @@ Cookie Clicker: https://snescraft.me/cc/
 
 General Game Site 2: https://snescraft.me/Mathews-Collection/games.html
 
-General Game Site 3: https://danielv69.github.io/native/math.html
+General Game Site 3 BACKUP: https://danielv69.github.io/native/math.html
 
-General Game Site 3 BACKUP: https://b-t7274.github.io/nativegames/math.html 
+General Game Site 3: https://b-t7274.github.io/nativegames/math.html 
