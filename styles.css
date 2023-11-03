@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    background-color: rgba(134, 7, 7, 0.692);
+    padding: 10px;
+    border-radius: 5px;
+    color: #cccccc;
+    font-family: monospace;
+}
+html {
+    background-color: #111111;
+}
+h1 {
+    color: #cccccc;
+    font-family: monospace;
+}
+hr {
+    color: aqua;
+    background-color: aqua;
+}
+a {
+    color: white;
+}
