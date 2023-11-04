@@ -1,3 +1,4 @@
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -23,11 +24,22 @@ hr {
     color: aqua;
     background-color: aqua;
 }
-a {
+li  a {
     color: white;
 }
 .panic {
     color: #ff0000;
     font-family: monospace;
     font-size: large;
+}
+.panic {
+    text-decoration: none;
+}
+li  a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: .5em;
+    
+}
+li a:hover {
+    background-color: rgba(46, 46, 46, 0.425);
 }
